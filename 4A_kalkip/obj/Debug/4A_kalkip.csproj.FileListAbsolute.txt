@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\4A_kalkip\4A_kalkip\obj\Debug\4A_kalkip.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\4A_kalkip\4A_kalkip\obj\Debug\4A_kalkip.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\4A_kalkip\4A_kalkip\obj\Debug\_4A_kalkip.Form1.resources
+C:\Users\Admin\source\repos\4A_kalkip\4A_kalkip\obj\Debug\_4A_kalkip.Properties.Resources.resources
+C:\Users\Admin\source\repos\4A_kalkip\4A_kalkip\obj\Debug\4A_kalkip.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\4A_kalkip\4A_kalkip\obj\Debug\4A_kalkip.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\4A_kalkip\4A_kalkip\bin\Debug\4A_kalkip.exe.config
+C:\Users\Admin\source\repos\4A_kalkip\4A_kalkip\bin\Debug\4A_kalkip.exe
+C:\Users\Admin\source\repos\4A_kalkip\4A_kalkip\bin\Debug\4A_kalkip.pdb
+C:\Users\Admin\source\repos\4A_kalkip\4A_kalkip\obj\Debug\4A_kalkip.exe
+C:\Users\Admin\source\repos\4A_kalkip\4A_kalkip\obj\Debug\4A_kalkip.pdb
